@@ -1,4 +1,4 @@
-# Simple Calculator Application (Java)
+# Calculator Application (Java)
 
 ## Overview
 
